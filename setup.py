@@ -26,7 +26,7 @@ config = {
         'console_scripts': ['worldengine=worldengine.cli.main:main'],
     },
     'install_requires': ['PyPlatec==1.4.0', 'pypng>=0.0.18', 'numpy>=1.9.2, <= 1.15.0',
-                         'argparse==1.2.1', 'noise==1.2.2', 'protobuf==3.11.4'],
+                         'argparse==1.2.1', 'noise==1.2.2', 'protobuf==3.11.3'],
     'license': 'MIT License'
 }
 
